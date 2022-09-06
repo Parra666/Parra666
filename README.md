@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF4CEC&width=435&lines=O+sucesso+n%C3%A3o+%C3%A9+da+noite+para+o+dia.;%E2%80%9CO+homem+inventou+a+bomba+at%C3%B4mica%2C+mas+me+diz+que+rato+inventaria+a+pr%C3%B3pria+ratoeira%3F%E2%80%9D.+-+Albert+Einstein.;O+senhor+%C3%A9+meu+pastor+e+nada+me+faltar%C3%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IMPACT&pause=1000&color=FF4CEC&width=435&lines=%D0%9C%D0%B0%D1%82%D0%B5%D1%83%D1%81+%D0%9F%D0%B0%D1%80%D1%80%D0%B0%D1%81;%D9%85%D8%A7%D8%AB%D9%8A%D9%88%D8%B3+%D8%A8%D8%A7%D8%B1%D8%A7%D8%B3;%CE%9C%CE%B1%CF%84%CE%AD%CE%BF%CF%85%CF%82+%CE%A0%CE%B1%CF%81%CF%81%CE%AC%CF%82;%D7%9E%D7%AA%D7%99%D7%90%D7%95%D7%A1+%D7%A4%D7%90%D7%A8%D7%90%D7%A1;%EB%A7%88%ED%85%8C%EC%9A%B0%EC%8A%A4+%ED%8C%8C%EB%9D%BC%EC%8A%A4;Matheus+Parras;%E5%8D%9A%E5%B0%94%E7%B4%A2%E7%BA%B3%E7%BD%97%E5%9C%A8%E5%A4%B4%E8%84%91%E5%92%8C%E5%BF%83%E4%B8%AD;%E5%B7%B4%E8%A5%BF%E9%A6%96%E5%85%88%E6%98%AF%E4%B8%8A%E5%B8%9D)](https://git.io/typing-svg)
 
 - 🌱 Estudante, Cusando Desenvolvimento de Sistemas na ETEC (3° Ano)
 - ⚡ Curto Hardware, Programação, Jogos, Futebol
