@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF4CEC&width=435&lines=Salve%2C+Bem+vindo+ao+meu+GITHUB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF4CEC&width=435&lines=O+sucesso+n%C3%A3o+%C3%A9+da+noite+para+o+dia.;%E2%80%9CO+homem+inventou+a+bomba+at%C3%B4mica%2C+mas+me+diz+que+rato+inventaria+a+pr%C3%B3pria+ratoeira%3F%E2%80%9D.+-+Albert+Einstein.;O+senhor+%C3%A9+meu+pastor+e+nada+me+faltar%C3%A1)](https://git.io/typing-svg)
 
 - 🌱 Estudante, Cusando Desenvolvimento de Sistemas na ETEC (3° Ano)
 - ⚡ Curto Hardware, Programação, Jogos, Futebol
